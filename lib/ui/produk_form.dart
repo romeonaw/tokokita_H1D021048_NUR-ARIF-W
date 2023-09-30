@@ -29,7 +29,7 @@ class _ProdukFormState extends State<ProdukForm> {
   isUpdate() {
     if (widget.produk != null) {
       setState(() {
-        judul = "UBAH PRODUK";
+        judul = "UBAH PRODUK (Romeo / Arif)";
         tombolSubmit = "UBAH";
         _kodeProdukTextboxController.text = widget.produk!.kodeProduk!;
         _namaProdukTextboxController.text = widget.produk!.namaProduk!;
@@ -38,7 +38,7 @@ class _ProdukFormState extends State<ProdukForm> {
         38;
       });
     } else {
-      judul = "TAMBAH PRODUK";
+      judul = "TAMBAH PRODUK (Romeo / Arif)";
       tombolSubmit = "SIMPAN";
     }
   }
