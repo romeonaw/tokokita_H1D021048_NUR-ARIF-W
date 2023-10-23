@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## Hasil Screenshots
 
-This project is a starting point for a Flutter application.
+![alt text](Registrasi.png)
+![alt text](https://github.com/romeonaw/tokokita_H1D021048_NUR-ARIF-W/blob/main/login.png)
+![alt text](https://github.com/romeonaw/tokokita_H1D021048_NUR-ARIF-W/blob/main/List%20Produk.png)
+![alt text](https://github.com/romeonaw/tokokita_H1D021048_NUR-ARIF-W/blob/main/ubah%20Produk.png)
+![alt text](https://github.com/romeonaw/tokokita_H1D021048_NUR-ARIF-W/blob/main/detail%20Produk.png)
+![alt text](https://github.com/romeonaw/tokokita_H1D021048_NUR-ARIF-W/blob/main/Tambah%20Produk.png)
+![alt text](https://github.com/romeonaw/tokokita_H1D021048_NUR-ARIF-W/blob/main/Delete%20Produk.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
